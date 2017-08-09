@@ -3,7 +3,7 @@
 ## Technology
 - Ruby 2.4.1
 - PostgreSQL
-- Faker data
+- [Faker data](https://github.com/stympy/faker)
 
 ## INSTALL DEPENDENCIES
 ```bash
