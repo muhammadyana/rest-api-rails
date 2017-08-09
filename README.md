@@ -1,9 +1,9 @@
 # SIMPLE REST API use Rails 5
 
-## Prerequisites
+## Technology
 - Ruby 2.4.1
 - PostgreSQL
-- git (obviously)
+- Faker data
 
 ## INSTALL DEPENDENCIES
 ```bash
