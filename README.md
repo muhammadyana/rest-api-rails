@@ -9,12 +9,18 @@
 ```bash
 $ bundle install
 ```
-
+## CREATE DATABASE
+```bash
+$ rake db:create
+```
 ## RUN MIGRATION
 ```bash
-$ rails db:migrate
+$ rake db:migrate
 ```
-
+## MAKE DUMMY DATA
+```bash
+$ rake db:seed
+```
 ## RUN SERVER
 ```bash
 $ rails s

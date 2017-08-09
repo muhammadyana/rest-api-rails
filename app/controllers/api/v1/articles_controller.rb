@@ -12,7 +12,6 @@ module Api
 			end
 			def create
         article = Article.new(article_params)
-
         if article.save
           render json: {status: 'SUCCESS', message:'Saved article', data:article},status: :ok
         else
