@@ -27,19 +27,19 @@ $ rails s
 ```
 ## Tes using Postman Create Article
 ```bash
-enter url http://localhost:3000/api/vi/articles
+http://localhost:3000/api/vi/articles
 ```
 ```bash
 choose content type and application/json in Headers
 ```
+
+choose Body and type use json
+
 ```bash
-choose Body
-```
-```bash
-{
-	"title": "Article from postman third",
-	"body": "Lorem Ipsum asas "
-}
+	{
+		"title": "Article from postman third",
+		"body": "Lorem Ipsum asas "
+	}
 ```
 If success it will return like json format
 ```bash
