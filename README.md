@@ -36,10 +36,10 @@ choose content type and application/json in Headers
 choose Body and type use json
 
 ```bash
-	{
-		"title": "Article from postman third",
-		"body": "Lorem Ipsum asas "
-	}
+{
+	"title": "Article from postman third",
+	"body": "Lorem Ipsum asas "
+}
 ```
 If success it will return like json format
 ```bash
